@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"297cc1fdc8c785b8","type":"text","text":"# [[HAIxCore]]\n\n![[yin-yang.jpg|200]]","x":-560,"y":-120,"width":243,"height":318},
+		{"id":"e52d977ea135397d","type":"text","text":"# [[pentagon]]\n","x":-537,"y":280,"width":197,"height":100},
+		{"id":"05e88dcfd526415a","type":"text","text":"# + Battery -","x":-150,"y":287,"width":215,"height":86},
+		{"id":"a5ac5b20b24201d6","type":"text","text":"# [[6 Senses]]\n","x":-60,"y":-147,"width":188,"height":88},
+		{"id":"1022018ba0edfe92","type":"text","text":"# Fuel / Sleep\n- Like the food that provide our body energy\n- Like every night we sleep to recharge","x":149,"y":-10,"width":280,"height":197},
+		{"id":"5b5a6474a8eef8b5","type":"text","text":"# Outside World","x":197,"y":-360,"width":185,"height":130},
+		{"id":"a85721bf1a1afcff","type":"text","text":"# [[hexagon]]\n","x":-240,"y":-1,"width":180,"height":81}
+	],
+	"edges":[
+		{"id":"c1248a26121a2507","fromNode":"a5ac5b20b24201d6","fromSide":"left","toNode":"a85721bf1a1afcff","toSide":"top"},
+		{"id":"835041552c4de2e8","fromNode":"05e88dcfd526415a","fromSide":"left","toNode":"e52d977ea135397d","toSide":"right"},
+		{"id":"dbaefba9ab5b163f","fromNode":"5b5a6474a8eef8b5","fromSide":"bottom","toNode":"1022018ba0edfe92","toSide":"top"},
+		{"id":"01577f3d37267732","fromNode":"1022018ba0edfe92","fromSide":"bottom","toNode":"05e88dcfd526415a","toSide":"right"},
+		{"id":"250128246b036537","fromNode":"a5ac5b20b24201d6","fromSide":"top","toNode":"5b5a6474a8eef8b5","toSide":"left"},
+		{"id":"f33e24b714899890","fromNode":"a85721bf1a1afcff","fromSide":"top","toNode":"a5ac5b20b24201d6","toSide":"left"},
+		{"id":"be3712687a892ab7","fromNode":"a85721bf1a1afcff","fromSide":"left","toNode":"297cc1fdc8c785b8","toSide":"right"},
+		{"id":"952f98fa4f231692","fromNode":"297cc1fdc8c785b8","fromSide":"right","toNode":"a85721bf1a1afcff","toSide":"left"},
+		{"id":"eb54f78b47653895","fromNode":"e52d977ea135397d","fromSide":"top","toNode":"297cc1fdc8c785b8","toSide":"bottom"},
+		{"id":"bf2fd90871027276","fromNode":"a85721bf1a1afcff","fromSide":"bottom","toNode":"05e88dcfd526415a","toSide":"right"},
+		{"id":"ee2e79a5bed09e7d","fromNode":"05e88dcfd526415a","fromSide":"left","toNode":"a5ac5b20b24201d6","toSide":"bottom"},
+		{"id":"53cf6755647cc964","fromNode":"5b5a6474a8eef8b5","fromSide":"bottom","toNode":"a5ac5b20b24201d6","toSide":"right"}
+	]
+}
