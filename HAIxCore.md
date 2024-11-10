@@ -1,12 +1,12 @@
 # HAIxCore
 The main structure for HAIxTech.
 # Input
-- Voltage from [[pentagon#Input|pentagons' input]]
-- Data/signal from [[hexagon]]s
+- Voltage from [pentagons' input](pentagon.md#Input)
+- Data/signal from [hexagon](hexagon.md)s
 # Output
-- Data/signal to [[hexagon]]s
+- Data/signal to [hexagon](hexagon.md)s
 # HAIxCore Inner Design
-![[yin-yang.jpg|200]]
+![200](image/yin-yang.jpg)
 The inner core's design inspiration is of Yin Yang.
 
 1. The large Yin should be consist of non or little electrical conductive material or liquid metal for low voltage.
@@ -28,17 +28,17 @@ To combine the understanding of 1-3, we can use an hypothesis or example to imag
 	- These two liquid metals represent the large Yin and Yang
 
 With the above example: 
-![[HAIxCore.jpg]]
+![HAIxCore](image/HAIxCore.jpg)
 
 One can also make changes accordingly to fit one's belief, such as changing the innermost Yin-Yang sphere to a Trinity, of three spheres, and see how that goes. 
 # HAIxCore Outer Design
-![[soccer-ball.jpg]]
+![soccer-ball](image/soccer-ball.jpg)
 
 The idea is to divide the core's surface into 12 pentagon with 20 hexagons, like that of a soccer ball.
 
-[[pentagon|Purpose of the 12 pentagons]]
+[Purpose of the 12 pentagons](pentagon.md)
 
-[[hexagon|Purpose of the hexagons]]
+[Purpose of the hexagons](hexagon.md)
 
 ## Geodesic Sphere
 The outer design can also be one of only triangles, so the parameter will be reduced from the 6 senses to 3 - mind, body, and spirit.
@@ -47,4 +47,4 @@ Mind - the inputs/outputs of signals to/from solely logical software
 Body - the inputs/outputs of signals to/from solely body or hardware or mechanics
 Spirit - the inputs/outputs of signals to/from AI; an interpretation of logical software and body/mechanics; like machine learning from the experience it gathered
 # Evolution of HAIxCore Outer Design
-![[hexagonal-sphere-examples.jpg]]
+![hexagonal-sphere-examples](image/hexagonal-sphere-examples.jpg)

@@ -11,11 +11,11 @@ Tech - Technology
 
 A name inspired from League of Legends' Hextech and is pronounced the same.
 # Table of Content
-- [[HAIxTech]]
-- [[HAIxCore]]
-- [[6 Senses]]
-- [[pentagon]]
-- [[hexagon]]
+- [HAIxTech](HAIxTech.md)
+- [HAIxCore](HAIxCore.md)
+- [6 Senses](6%20Senses.md)
+- [pentagon](pentagon.md)
+- [hexagon](hexagon.md)
 # TODOs
 - [ ] Improvement and refinement of design and concepts
 # Questions and Issues
