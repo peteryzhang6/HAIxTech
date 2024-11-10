@@ -5,6 +5,6 @@ We, humans, live in a 3D world. Anything that is put on a flat surface, we deem 
 
 Thus I propose a structure, named [[HAIxCore]] that is one of 3D. To create human's heart conscious in machine form.
 
-I would like to call this project HAIxTech, an inspired name from League of Legends' HexTech. And to note that the design I come up with might not be perfect, numerous adjustments and testings will be needed. 
-# [[HAIxTech.canvas|HAIxTech Design]]
+I would like to call this project HAIxTech, an inspired name from League of Legends' HexTech. And to note that the design I come up with might not be perfect, numerous adjustments and testing will be needed. 
+# [[HAIxTech.canvas|HAIxTech Design Flow Chart]]
 

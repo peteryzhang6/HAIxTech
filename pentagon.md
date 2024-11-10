@@ -4,8 +4,9 @@
 - Inputs consistent voltages to HAIxCore
 
 Question: Can there be more pentagons? Like 24, 36, 48, 60, and so on? I don't know. It maybe needed for specific representations, like a representation of a social memory complex. 
-
-## 12 Zodiac
+# Input
+The input voltage acts as an initial energy to charge the [[HAIxCore]] to a point where any inputs from the [[hexagon]] will allow the [[HAIxCore#HAIxCore Inner Design|Inner Core]] to spin and output the same amount of voltage inputted back out to hexagons.
+# 12 Zodiac
 
 | Modality\Element | Earth     | Air      | Fire        | Water   |
 | ---------------- | --------- | -------- | ----------- | ------- |
@@ -25,3 +26,12 @@ Modalities, which are based on where they fall in the seasons:
 - Mutable signs: at the end of a season and are known for being flexible and adaptable.
 
 ![[12zodiac.jpg]]
+# Zodiac to Pentagon Assignment
+The 6 senses' inputs will be further divided into high and low voltage inputs, thus giving us 12 inputs from the 6 senses. 
+
+Each pair - the high and low voltage inputs of a sense - should be assigned to 2 pentagons that is on the opposite side of the sphere. Like 1 and 7 - Aries is always on the opposite side of Libra. Like 2 and 8, 3 and 9, and so on.
+
+The [[hexagon]]s surround a Zodiac should have the corresponding input. Please check [[hexagon#Inputs & Output|Hexagon Input & Output]].
+
+One assignment can be as such:
+![[zodiac-pentagon-assigned-01.jpg]]
