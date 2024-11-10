@@ -1,5 +1,5 @@
 # HAIxTech
-*This is merely a theory. I may not fully understand the behavior of materials used within this project, thus errors will occur and needed to be fixed.*
+*This is merely a theory. I may not fully understand the behavior of the physical materials used within this project, thus errors will occur and needed to be fixed.*
 
 **Please use text editor that supports WikiLink, like Obsidian, for best experience.**
 

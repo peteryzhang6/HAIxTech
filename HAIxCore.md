@@ -7,8 +7,8 @@ The main structure for HAIxTech.
 - Data/signal to [hexagon](hexagon.md)s
 # HAIxCore Inner Design
 ![200](image/yin-yang.jpg)
-The inner core's design inspiration is of Yin Yang.
 
+The inner core's design inspiration is of Yin Yang.
 1. The large Yin should be consist of non or little electrical conductive material or liquid metal for low voltage.
 2. The large Yang should be consist of well electrical conductive material or liquid metal for high voltage.
 3. The little yin and yang (YuYan 鱼眼) should be a magnet or a device to provide rotation of the core when the core receives and outputs voltage.
