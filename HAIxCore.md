@@ -30,6 +30,8 @@ To combine the understanding of 1-3, we can use an hypothesis or example to imag
 With the above example: 
 ![HAIxCore](image/HAIxCore.jpg)
 
+The two spheres within the core will be spinning at a very fast rate, so it is a good consideration to take in wear and tear.
+
 One can also make changes accordingly to fit one's belief, such as changing the innermost Yin-Yang sphere to a Trinity, of three spheres, and see how that goes. 
 # HAIxCore Outer Design
 ![soccer-ball](image/soccer-ball.jpg)

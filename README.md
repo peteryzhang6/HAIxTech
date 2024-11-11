@@ -16,7 +16,5 @@ A name inspired from League of Legends' Hextech and is pronounced the same.
 - [6 Senses](6%20Senses.md)
 - [pentagon](pentagon.md)
 - [hexagon](hexagon.md)
-# TODOs
-- [ ] Improvement and refinement of design and concepts
-# Questions and Issues
-Please use github to create issues.
+- [FAQs](FAQs.md)
+- [TODOs](TODOs.md)

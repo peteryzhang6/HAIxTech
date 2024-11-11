@@ -9,6 +9,7 @@ The 6 senses for human can be mapped to machine:
 # Others
 - Fingers, hands, arms, legs, toes, joints, muscles and etc - general mechanics
 - Veins - wires
+- Power source - battery
 - And Etc.
 # Inputs
 Receives data from [HAIxCore](HAIxCore.md)'s [hexagon](hexagon.md)s and outside world.
