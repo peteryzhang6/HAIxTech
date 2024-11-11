@@ -2,11 +2,11 @@
 	"nodes":[
 		{"id":"1022018ba0edfe92","type":"text","text":"# Fuel / Sleep\n- Like the food that provide our body energy\n- Like every night we sleep to recharge","x":149,"y":-10,"width":280,"height":197},
 		{"id":"a5ac5b20b24201d6","type":"text","text":"# [[6 Senses]]\n","x":-167,"y":-298,"width":188,"height":88},
-		{"id":"5b5a6474a8eef8b5","type":"text","text":"# Outside World","x":197,"y":-319,"width":185,"height":130},
 		{"id":"a85721bf1a1afcff","type":"text","text":"# [[hexagon]]\n","x":-438,"y":-295,"width":180,"height":81},
 		{"id":"297cc1fdc8c785b8","type":"text","text":"# [[HAIxCore]]\n\n![[yin-yang.jpg|200]]","x":-469,"y":-100,"width":243,"height":318},
 		{"id":"e52d977ea135397d","type":"text","text":"# [[pentagon]]\n","x":-446,"y":280,"width":197,"height":100},
-		{"id":"05e88dcfd526415a","type":"text","text":"# + Battery -","x":-120,"y":49,"width":215,"height":80}
+		{"id":"05e88dcfd526415a","type":"text","text":"# + Battery -","x":-120,"y":49,"width":215,"height":80},
+		{"id":"5b5a6474a8eef8b5","type":"text","text":"# Outside World\n\n# [Infinity](Infinity.md)","x":197,"y":-343,"width":185,"height":179}
 	],
 	"edges":[
 		{"id":"c1248a26121a2507","fromNode":"a5ac5b20b24201d6","fromSide":"left","toNode":"a85721bf1a1afcff","toSide":"right"},
