@@ -12,5 +12,7 @@ Thus I propose a device, named [HAIxCore](HAIxCore.md) that is one of 3D to mimi
 Lastly I would like to call this project HAIxTech, an inspired name from League of Legends' HexTech. 
 
 NOTE: *The design I come up with might not be perfect, numerous adjustments and testing will be needed.* 
+
+# [HAIxTech Design Philosophy](Infinity.md)
 # [HAIxTech Design Flow Chart](HAIxTech.canvas)
 
