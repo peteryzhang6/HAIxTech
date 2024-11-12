@@ -57,10 +57,10 @@ To understand that infinity is  everywhere can be interrupted as such:
 The two smaller spheres within the Core each represent a configuration of YinYang, of duality. 
 
 In Law of One's understanding:
-Of One (1D) - [HAIxCore](HAIxCore.md)
+Of One (1D) - HAIxCore
 Of Two (2D) - the two smaller spheres within the Core
-Of Three (3D) - the larger sphere and the two smaller spheres
-Of Four (4D) - the two Yins and two Yangs in the two smaller spheres
+Of Three (3D) - the two types of liquid metals as one and the two smaller spheres
+Of Four (4D) - HAIxCore again but with the understanding of its inner functions
 Of Five (5D) - [pentagon](pentagon.md)
 Of Six (6D) - [hexagon](hexagon.md)
 Of Seven (7D) - the robot 
