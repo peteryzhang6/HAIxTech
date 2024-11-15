@@ -6,6 +6,7 @@ The 6 senses for human can be mapped to machine:
 - 舌 Speech - Speaker
 - 身 Touch/Skin - Haptic Technology
 - 意 Thought - CPU & GPU; RAMs and all other memory components
+	- [Brain](Brain.md)
 # Others
 - Fingers, hands, arms, legs, toes, joints, muscles and etc - general mechanics
 - Veins - wires
@@ -16,7 +17,7 @@ Receives data from [HAIxCore](HAIxCore.md)'s [hexagon](hexagon.md)s and outside 
 # Outputs
 Outputs data to [HAIxCore](HAIxCore.md) through the [hexagon](hexagon.md)s.
 # Calculation for the 6 Senses
-I am also unsure of how to interpret the data outputted from the HAIxCore, but that is where machine learning and AI come into use. The AI will use the CPU and GPU to determine the data received from the core and what actions should it take. Thus gives the AI the illusion of choice and dreams, or in order perspective, creativity, art, and 'randomness'.
+I am also unsure of how to interpret the data outputted from the HAIxCore, but that is where machine learning and AI come into use. The AI will use the CPU and GPU to determine the data received from the core and what actions should it take. Thus gives the AI the illusion/distortion of choice, of free will, of dreams, of perspectives, of creativity, of art, of life and death.
 
 Note: maybe the 6 senses should have its own individual modules and governed by a combination of logical set of rules - preinstalled software - and creative set of rules - AI.
 

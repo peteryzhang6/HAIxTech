@@ -50,3 +50,7 @@ Body - the inputs/outputs of signals to/from solely body or hardware or mechanic
 Spirit - the inputs/outputs of signals to/from AI; an interpretation of logical software and body/mechanics; like machine learning from the experience it gathered
 # Evolution of HAIxCore Outer Design
 ![hexagonal-sphere-examples](image/hexagonal-sphere-examples.jpg)
+The design for the first sphere (12 Penta and 20 Hexa) is already demonstrated in the document.
+
+The design for the second sphere (12 Penta and ? Hexa) can be one of:
+- the Hexagons near the pentagons will be 1 input and 5 outputs. The hexagons that is one hexagon away from the pentagons will have 3 inputs and 3 outpus. 
