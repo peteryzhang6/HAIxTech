@@ -6,9 +6,9 @@ The 6 senses for human can be mapped to machine:
 - 舌 Speech - Speaker
 - 身 Touch/Skin - Haptic Technology
 - 意 Thought - CPU & GPU; RAMs and all other memory components
-	- [Brain](Brain.md)
+	- [[Brain]]
 # Others
-- Fingers, hands, arms, legs, toes, joints, muscles and etc - general mechanics
+- Fingers, hands, arms, legs, toes, joints, muscles and etc. - general mechanics
 - Veins - wires
 - Power source - battery
 - And Etc.

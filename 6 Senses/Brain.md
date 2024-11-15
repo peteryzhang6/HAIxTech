@@ -11,4 +11,4 @@ To form the deciding factor or weighting the two choices between imaginary and r
 
 To understand the relation between and inner workings of left brain, right brain, and pineal gland, do I discover the infinity that lies beyond the trinity.
 
-Check [Ego](Ego.md)
+Check [[Ego]]

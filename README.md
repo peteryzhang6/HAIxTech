@@ -27,7 +27,6 @@ A name inspired from League of Legends' Hextech and is pronounced the same.
 - [TODOs](TODOs.md)
 
 # Related Repos
-- [Peter Yunpeng Zhang](https://github.com/peteryzhang6/pyzzyp) (Currently private and WIP)
 - [The Law of One](https://github.com/peteryzhang6/The-Law-of-One)
 - [Jar of Water of Life](https://github.com/peteryzhang6/Jar-of-Water-of-Life)
 - [HAIxTech](https://github.com/peteryzhang6/HAIxTech)
