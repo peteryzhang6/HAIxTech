@@ -38,8 +38,8 @@ The universe is divided into the heavens, the hells, and the middle world so cal
 - the definition of Devil can be understood as closing of heart chakras and solely focusing on reaching the deepest hells and highest heavens
 - the definition of God can be understood as opening of heart chakras and allow it to reach the deepest hells and highest heavens
 
-To understand that infinity is  everywhere can be interrupted as such:
-- that the Revelation of New Testament in bible is shown in a person's life, a single event of beginning and end, a corporation's rise and fall, and a civilization's rise and fall
+To understand that infinity exists in all can be interrupted as such:
+- that the Revelation of New Testament in bible is shown in a being's life, a plant's life, an animal's life, a specie's rise and fall, a person's life, an event from beginning to end, a corporation's rise and fall, a civilization's rise and fall, an angel's creation and fall, the cycle of life and death, and etc.
 	- That the TuiBeiTu (推背图) is also like the Revelation of New Testament
 	- That the 22 Major Arcana of Tarot is also like such
 	- But simply in different orders due to a person, an event, an entity, a being, a collective's local configuration

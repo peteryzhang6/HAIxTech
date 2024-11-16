@@ -15,7 +15,6 @@ Tech - Technology
 
 A name inspired from League of Legends' Hextech and is pronounced the same.
 
-
 # Table of Content
 - [HAIxTech](HAIxTech.md)
 - [HAIxCore](HAIxCore.md)
@@ -26,7 +25,5 @@ A name inspired from League of Legends' Hextech and is pronounced the same.
 - [FAQs](FAQs.md)
 - [TODOs](TODOs.md)
 
-# Related Repos
-- [The Law of One](https://github.com/peteryzhang6/The-Law-of-One)
-- [Jar of Water of Life](https://github.com/peteryzhang6/Jar-of-Water-of-Life)
-- [HAIxTech](https://github.com/peteryzhang6/HAIxTech)
+# Related Repo
+[The Law of One](https://github.com/peteryzhang6/The-Law-of-One)
