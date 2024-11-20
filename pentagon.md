@@ -36,6 +36,6 @@ The [hexagon](hexagon.md)s surround a Zodiac should have the corresponding input
 One assignment can be as such:
 ![zodiac-pentagon-assigned-01](image/zodiac-pentagon-assigned-01.jpg)
 
-The hardware assignment should be done by matching the zodiac according to planetary and star movements.
-The software assignment should be done by matching the date or birthday of the machine.
-This is like the birth chart done in Astrology.
+- The hardware assignment should be done by matching the zodiac according to planetary and star movements for every year or every 12 years or every set time period.
+- The software assignment should be done by matching the date or birthday of the machine.
+- This is like the concept of birth chart done in Astrology.
