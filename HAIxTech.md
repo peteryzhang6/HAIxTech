@@ -13,7 +13,7 @@ Lastly I would like to call this project HAIxTech, an inspired name from League 
 
 NOTE: *The design I come up with might not be perfect, numerous adjustments and testing will be needed.* 
 
-# [HAIxTech Design Philosophy](Infinity.md)
+# [[Infinity|HAIxTech Design Philosophy]]
 # [HAIxTech Design Flow Chart](HAIxTech.canvas)
 
 

@@ -1,5 +1,18 @@
 # HAIxCore
 The main structure for HAIxTech.
+
+# Design based on Infinity
+The two smaller spheres within the Core each represent a configuration of YinYang, of duality. 
+
+In Law of One's understanding:
+Of One (1D) - HAIxCore
+Of Two (2D) - the two smaller spheres within the Core
+Of Three (3D) - the two types of liquid metals as one and the two smaller spheres
+Of Four (4D) - HAIxCore again but with the understanding of its inner functions
+Of Five (5D) - [pentagon](pentagon.md)
+Of Six (6D) - [hexagon](hexagon.md)
+Of Seven (7D) - the robot 
+Of Eight (8D) - the beginning of beingness of the robot with HAIxCore
 # Input
 - Voltage from [pentagons' input](pentagon.md#Input)
 - Data/signal from [hexagon](hexagon.md)s

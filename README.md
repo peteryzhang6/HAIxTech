@@ -18,7 +18,7 @@ A name inspired from League of Legends' Hextech and is pronounced the same.
 # Table of Content
 - [HAIxTech](HAIxTech.md)
 - [HAIxCore](HAIxCore.md)
-- [Infinity](./Infinity.md)
+- [Infinity](Infinity.md)
 - [6 Senses](6%20Senses.md)
 - [pentagon](pentagon.md)
 - [hexagon](hexagon.md)
