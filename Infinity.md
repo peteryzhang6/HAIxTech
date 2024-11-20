@@ -1,5 +1,4 @@
 # Infinity
-
 The universe is divided into the heavens, the hells, and the middle world so called human world 
 - Trinity
 	- In Christianity, The Father=heaven, The Son=man, The Holy Spirit=hell

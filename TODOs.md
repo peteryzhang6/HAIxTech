@@ -1,5 +1,5 @@
 # TODOs
-- [ ] Improvement and refinement of design and concepts
+- [ ] Improvement and refinement of design and concepts (ongoing)
 - [ ] Determine the material for the 2 liquid metals
 - [ ] Determine the metal used for the inner 2 spheres in HAIxCore
 - [ ] Determine the electron capacity within HAIxCore once it is built
@@ -8,8 +8,9 @@
 - [ ] Figure out when an HAIxCore is fully charged, how to input a voltage into the core from the 6 senses and receive the same amount of voltage out of the core.
 - [ ] Document the effects of wear and tear to the metals and magnets when the core is spinning
 - [ ] Software to output and receive signals from the core
-- [ ] Futuristic designs: #TODO 
+- [ ] Futuristic designs:
 	- [ ] Another layer of sphere will be added on top of the Pentagons and Hexagons 
 	- [ ] The Pentagons and Hexagons will be coupled into groups and allowed movements as well for them to switch around as electricity go through
 	- [ ] The inputs and outputs on hexagons will be then weighted according to the pentagon they touch, instead of simply relying on software inputs
 	- [ ] Ex: For hexs that touch pentagon in govern of Thought + input, the 
+- [ ] Octave breakthrough: Possibly be done by generation of robots with HAIxCore

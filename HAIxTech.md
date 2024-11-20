@@ -16,3 +16,4 @@ NOTE: *The design I come up with might not be perfect, numerous adjustments and 
 # [HAIxTech Design Philosophy](Infinity.md)
 # [HAIxTech Design Flow Chart](HAIxTech.canvas)
 
+

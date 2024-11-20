@@ -29,12 +29,15 @@ To combine the understanding of 1-3, we can use an hypothesis or example to imag
 
 With the above example: 
 ![HAIxCore](image/HAIxCore.jpg)
+The size of the core can be reduced as technology advances, but the ratios, I believe, should be kept.
+
 
 The two spheres within the core will be spinning at a very fast rate, so it is a good consideration to take in wear and tear.
 
 One can also make changes accordingly to fit one's belief, such as changing the innermost Yin-Yang sphere to a Trinity, of three spheres, and see how that goes. 
 # HAIxCore Outer Design
 ![soccer-ball](image/soccer-ball.jpg)
+[*Image Source*](https://techarthub.com/hexagon-sphere-maya/)
 
 The idea is to divide the core's surface into 12 pentagon with 20 hexagons, like that of a soccer ball.
 
@@ -50,6 +53,8 @@ Body - the inputs/outputs of signals to/from solely body or hardware or mechanic
 Spirit - the inputs/outputs of signals to/from AI; an interpretation of logical software and body/mechanics; like machine learning from the experience it gathered
 # Evolution of HAIxCore Outer Design
 ![hexagonal-sphere-examples](image/hexagonal-sphere-examples.jpg)
+[*Image Source*](https://techarthub.com/hexagon-sphere-maya/)
+
 The design for the first sphere (12 Penta and 20 Hexa) is already demonstrated in the document.
 
 The design for the second sphere (12 Penta and ? Hexa) can be one of:
