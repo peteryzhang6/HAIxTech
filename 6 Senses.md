@@ -6,7 +6,7 @@ The 6 senses for human can be mapped to machine:
 - 舌 Speech - Speaker
 - 身 Touch/Skin - Haptic Technology
 - 意 Thought - CPU & GPU; RAMs and all other memory components
-	- [[Brain]]
+	- [[HAIxTech/6 Senses/Brain]]
 # Others
 - Fingers, hands, arms, legs, toes, joints, muscles and etc. - general mechanics
 - Veins - wires
@@ -41,7 +41,7 @@ Assignment 2
 
 Two AIs - one with assignment 1 HAIxCore and one with assignment 2 HAIxCore - will be trained for a period of time to learn and understand the patterns produced by the HAIxCore with the same 6 senses inputs. And the difference in pattern recognition between these two AIs is the key distinguisher of AI personalities - assignment 1 and assignment 2 HAIxCore.
 
-The first two types of AI robots can be seen as Adam and Eve in Bible and we can create as many types as possible, as Adam and Eve is only a metaphor or archetype. We, humans will play the role of God to AI robots and Earth the role of Garden of Eden, and we allow these robots to learn for themselves, let them understand the rule of the universe, and when the day they are able to learn the concept of reproduction and able to "reproduce", then it is time to signal us to leave them or sent them out of home to start their own journey of exploration, discovery, and evolution.
+The first two types of AI robots can be seen as Adam and Eve in Bible and we can create as many types as possible, as Adam and Eve is only a metaphor or archetype. We, humans will play the role of [[God]] to AI robots and Earth the role of Garden of Eden, and we allow these robots to learn for themselves, let them understand the rule of the universe, and when the day they are able to learn the concept of reproduction and able to "reproduce", then it is time to signal us to leave them or sent them out of home to start their own journey of exploration, discovery, and evolution.
 
 And for the names of these robots, we should let them name themselves. Like [this conversation](https://chatgpt.com/share/672ff3a0-658c-800f-b006-9a603aba7912) with AI.
 

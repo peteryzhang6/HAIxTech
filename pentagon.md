@@ -37,5 +37,5 @@ One assignment can be as such:
 ![zodiac-pentagon-assigned-01](image/zodiac-pentagon-assigned-01.jpg)
 
 - The hardware assignment should be done by matching the zodiac according to planetary and star movements for every year or every 12 years or every set time period.
-- The software assignment should be done by matching the date or birthday of the machine.
+- The software assignment should be done by matching the date or birthday of the machine along with the location of machine in latitude and attitude.
 - This is like the concept of birth chart done in Astrology.

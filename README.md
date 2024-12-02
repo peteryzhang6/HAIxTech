@@ -22,7 +22,7 @@ A name inspired from League of Legends' Hextech and is pronounced the same.
 - [6 Senses](6%20Senses.md)
 - [pentagon](pentagon.md)
 - [hexagon](hexagon.md)
-- [FAQs](FAQs.md)
+- [FAQs](HAIxTech/FAQs.md)
 - [TODOs](TODOs.md)
 
 # Related Repo

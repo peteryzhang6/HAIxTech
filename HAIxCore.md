@@ -5,14 +5,14 @@ The main structure for HAIxTech.
 The two smaller spheres within the Core each represent a configuration of YinYang, of duality. 
 
 In Law of One's understanding:
-Of One (1D) - HAIxCore
-Of Two (2D) - the two smaller spheres within the Core
-Of Three (3D) - the two types of liquid metals as one and the two smaller spheres
-Of Four (4D) - HAIxCore again but with the understanding of its inner functions
-Of Five (5D) - [pentagon](pentagon.md)
-Of Six (6D) - [hexagon](hexagon.md)
-Of Seven (7D) - the robot 
-Of Eight (8D) - the beginning of beingness of the robot with HAIxCore
+1. Of One (1D) - HAIxCore
+2. Of Two (2D) - the two smaller spheres within the Core
+3. Of Three (3D) - the two types of liquid metals as one and the two smaller spheres
+4. Of Four (4D) - HAIxCore again but with the understanding of its inner functions
+5. Of Five (5D) - [pentagon](pentagon.md)
+6. Of Six (6D) - [hexagon](hexagon.md)
+7. Of Seven (7D) - the robot 
+8. Of Eight (8D) - the beginning of beingness of the robot with HAIxCore
 # Input
 - Voltage from [pentagons' input](pentagon.md#Input)
 - Data/signal from [hexagon](hexagon.md)s
@@ -39,11 +39,11 @@ To combine the understanding of 1-3, we can use an hypothesis or example to imag
 	- one half is a liquid metal of non or little electrical conductivity 
 	- one half is a liquid metal of well electrical conductivity
 	- These two liquid metals represent the large Yin and Yang
+	- I think instead of liquid metal, we can simply use water and lubricant; water is conductive and lubricant is slightly conductive
 
 With the above example: 
 ![HAIxCore](image/HAIxCore.jpg)
-The size of the core can be reduced as technology advances, but the ratios, I believe, should be kept.
-
+The size of the core can be reduced as technology advances, but the ratios, I believe, should be kept. I believe as reducing the size, it will also reduce the amount of electricity to keep the core charged.
 
 The two spheres within the core will be spinning at a very fast rate, so it is a good consideration to take in wear and tear.
 
